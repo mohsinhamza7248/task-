@@ -103,10 +103,3 @@ Explanation:
 
 The application persists task data using local storage. Tasks are stored under the key "taskStore" as a JSON string.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
-Please let me know if you need any further information or assistance.
